@@ -1,0 +1,14 @@
+/* psudo class */
+.psudeo::before{
+    content: '😎';
+}
+.psudeo::after{
+    content: '👌';
+}
+
+.psudeo::first-line{
+    color: blue;}
+/* psudo elemnts */
+.psudeo::first-letter{
+    text-decoration: underline;
+}
