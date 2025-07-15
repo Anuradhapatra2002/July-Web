@@ -1,0 +1,25 @@
+.parent{
+    width: 800px;
+    background-color: coral;
+}
+.one{
+    background-color: antiquewhite;
+    width: 50%;
+    padding: 1dvh;
+    border: 20px solid teal;
+    color: brown;
+    }
+*{
+    box-sizing: border-box;
+
+}
+.two{
+    background-color: royalblue;
+    padding: 10px;
+    border: 5px solid black; 
+    margin: 40px;
+    outline: 10px solid green;
+    border-radius: 50%;
+    width: 500px;
+    height: 250px;
+}

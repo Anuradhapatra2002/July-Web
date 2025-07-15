@@ -2,5 +2,8 @@
     background-color: aquamarine;
     max-width: 500px;
     min-height: 300px;
-
+    
+}
+.parent{
+    width: 800px;
 }
