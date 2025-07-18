@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+
+div {
+  background-color: violet;
+  width: 50vw;
+  height: 50vh;
+  padding: 5vw;
+  border: 1vw solid red;
+  font-size: 2em;
+}
+
+p {
+  background-color: chartreuse;
+  width: 50%;
+  height: 50%;
+  margin: 10%;
+  /* font-size: 3em; */
+/* em relates to the current font this effect called snow ball effect */
+
+    /* rem relates to the root element */
+
+}
