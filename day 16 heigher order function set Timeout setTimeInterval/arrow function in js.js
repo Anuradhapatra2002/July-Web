@@ -27,9 +27,14 @@
 
 //if there is single statement and not use collbraces then dont use return keyword if use it is generate error
 
-const square =num =>  num* num
-console.log(
-square(7));
+// const square =num =>  num* num
+// console.log(
+// square(7));
+const number = prompt('enter a number');
+console.log(square(parseInt(number)));
+console.log(square2(5))
+
+
 
 
 
