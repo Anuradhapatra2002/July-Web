@@ -12,6 +12,7 @@ console.log(3);
 
 
 console.log(setInterval(hello , 2000));
+cl
 
  
 
